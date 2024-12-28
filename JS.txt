@@ -1,0 +1,14 @@
+Print statements:
+console.log 
+console.table : print a multiple value in table form.
+
+Variables:
+>constant [const] : 
+    This Variable values cannot change in any condition. act like value can lock. a block scope.
+
+>let :
+    Variable cannot be re-declare but can be updated.block scope.
+
+>var :
+    Variable can be re-declare & updated.A global scope.
+
