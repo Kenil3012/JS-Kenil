@@ -12,3 +12,49 @@ Variables:
 >var :
     Variable can be re-declare & updated.A global scope.
 
+DataTypes:
+
+String: This is sequence of text know as a string.
+Number: This is number.
+Boolean: This is a possitive or negative value.(e.g True or False)
+Array: This is structure that allow store multiple value in one Variable.
+object: Every value is a object and can be store in Variable.
+
+
+Operator: 
+>Arithmetic:
+
+Addition : +
+Subtraction : -
+Multiplication : *
+Division : /
+Assignment : =
+modulus : %
+Increment : ++
+Decrement : --
+Does-not-equal : !==
+
+>Assignment Operators:
+
+= Assignment
++= Addition assignment
+-= Subtraction assignment
+*= Multiplication assignment
+/= Division assignment
+%= Modulus assignment
+
+> Comparison Operators:
+== Equal to
+=== Strictly equal to (equal value and type)
+!= Not equal to
+!== Strictly not equal to
+>: Greater than
+<: Less than
+>= Greater than or equal to
+<= Less than or equal to
+
+>Logical Operators:
+&&: Logical AND
+|| Logical OR
+!: Logical NOT
+
